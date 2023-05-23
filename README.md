@@ -1,4 +1,11 @@
 # team-agreement
+members:
+1-Abdelrahman shaheen
+2-Bashar Shehadeh
+3-Hasan Mufdy
+4-Tasneem Al-abed
+5-osama al-karmy
+
 - What are the key strengths of each person on the team?
 - How can you best utilize these strengths in the execution of your project?
 - In which professional competencies do you each want to develop greater strength?
